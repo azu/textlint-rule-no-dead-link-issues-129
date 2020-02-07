@@ -1,0 +1,16 @@
+{
+  "name": "textlint-rule-no-dead-link-issues-129",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "textlint test.md"
+  },
+  "keywords": [],
+  "author": "azu",
+  "license": "MIT",
+  "devDependencies": {
+    "textlint": "^11.6.2",
+    "textlint-rule-no-dead-link": "^4.6.2"
+  }
+}
